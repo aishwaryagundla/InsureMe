@@ -1,4 +1,4 @@
-0node{
+node{
     
     def mavenHome
     def mavenCMD
